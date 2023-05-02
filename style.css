@@ -1,0 +1,33 @@
+.d_name{
+    position: fixed;
+    bottom: 0;
+    background: white;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+    text-shadow: 5px 5px 5px gray;
+    font-size: 18px;
+
+}
+body{
+    background: lightgreen;
+}
+.h_div p{
+    font-family: 'Roboto',sans-serif;
+    color: gray;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: 'Roboto',sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+
+}
+.header{
+    font-family: 'Special Elite', cursive;
+}
+
